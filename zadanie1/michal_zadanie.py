@@ -1,5 +1,5 @@
 number = int(input("choose any number: "))
-fibo =()
+# fibo = None
 a = 0
 b = 1
 c = a + b
@@ -8,7 +8,7 @@ if number == 1 or number == 2:
 elif number == 0:
     fibo = 0
 else:
-    for  number in range (2,number):
+    for number in range(2, number):
         a = b
         b = c
         c = a + b
