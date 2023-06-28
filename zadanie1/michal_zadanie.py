@@ -1,5 +1,5 @@
 number = int(input("choose any number: "))
-# fibo = None
+fibo = ()
 a = 0
 b = 1
 c = a + b
