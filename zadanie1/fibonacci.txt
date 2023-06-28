@@ -1,0 +1,3 @@
+Napisz funkcję która oblicza wartość konkretnej liczby w ciągu fibonacciego.
+1 1 2 3 5 8 13 ...
+Więc po wpisaniu 1 lub 2 otrzymamy 1. Po wpisaniu 7 otrzymamy 13 itp
